@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/hd-sh/greeting/issues"
   },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "homepage": "https://github.com/hd-sh/greeting#readme"
 }
